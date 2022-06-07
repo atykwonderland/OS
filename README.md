@@ -1,13 +1,3 @@
-### **Author:**
-Alice Kang \
-260827823
-
----
-
-#### **Notes for TA:**
-- based off of the starter code given at the beginning of the semester and built off of my solution to A1
-
----
 # Using the Shell
 ## Compiling the Shell
 <details>
